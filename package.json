@@ -1,0 +1,17 @@
+{
+  "name": "dino_game_cs455",
+  "version": "1.0.0",
+  "description": "Demo: https://saketj21.github.io/Dino_Game_CS455/",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.10.0",
+    "eslint": "^9.10.0",
+    "eslint-plugin-complexity": "^1.0.2",
+    "globals": "^15.9.0"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
