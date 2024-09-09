@@ -27,3 +27,5 @@ jobs:
 
       - name: Run ESLint
         run: npm run lint
+      - name: dadda
+        run: npm run coverage
